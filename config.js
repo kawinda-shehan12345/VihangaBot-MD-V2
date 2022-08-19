@@ -18,14 +18,14 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '94741388320' //මෙතන number එක.
 
 // Other
 global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
+global.premium = ['94741388320','9476342733'] //මෙතන number එක.
+global.botname = 'KAWINDA BOT INC' //මෙතන නම.
+global.ownername = 'kawinda MD' //මෙතන නම.
+global.ownername = 'kawinda shehan' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF' //මෙතන grouplink එක.
 global.packname = 'VIHANGA BOT INC' //මෙතන නම.
@@ -39,9 +39,9 @@ global.goldAwal = '10' //මෙතන මාරු කරන්න එපා.
 global.emeraldAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.umpanAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.potionAwal = '1' //මෙතන මාරු කරන්න එපා.
-global.dripstyping = false //මෙතන මාරු කරන්න එපා.
+global.dripstyping = true //මෙතන මාරු කරන්න එපා.
 global.dripsreadgroup = false //මෙතන මාරු කරන්න එපා. 
-global.dripsreadall = false //මෙතන මාරු කරන්න එපා.
+global.dripsreadall = true //මෙතන මාරු කරන්න එපා.
 global.dripsrecord = false //මෙතන මාරු කරන්න එපා.
 global.available = false //මෙතන මාරු කරන්න එපා.
 global.unavailable = true //මෙතන මාරු කරන්න එපා.
@@ -52,7 +52,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = 'KAWINDA BOT INC' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
